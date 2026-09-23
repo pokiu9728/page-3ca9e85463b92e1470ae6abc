@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "74b2866a2d3842cb299dd305",
+  "owner": "pokiu9728",
+  "repo": "page-3ca9e85463b92e1470ae6abc",
+  "title": "NTHU",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3ca9e85463b92e1470ae6abc",
+      "a": "NTHU",
+      "b": "机场官网线路发布页",
+      "entity": "NTHU",
+      "brand": "NTHU",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "312db0ee7b954e6dcf18d0aec6d046d6c35246506657cc99817975e9f05a3bf5",
+      "content": {
+        "primary_entity": "NTHU",
+        "keyword1": "NTHU",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，并按客户端文档完成订阅配置。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选适合的套餐，按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "开始使用 NTHU",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开。NTHU 提供基础版、旗舰版与团队版三档订阅，分别支持 3 台、5 台与 20 台设备同时在线，流量从每月 100GB 到 1000GB，年付价格分别为 ¥150、¥350 与 ¥850。旗舰版与团队版包含 IPLC 专线及流媒体解锁，适合多设备与游戏加速需求。按设备系统选择客户端后，可参考对应文档导入订阅地址，订阅周期与设备数量按套餐匹配即可。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。多设备用户可先确认常用终端数量，再按套餐上限选择。",
+          "AI_FAQ_ANSWER_2": "每月流量分别为 100GB、300GB 与 1000GB。日常浏览与视频可选基础版，高频流媒体或游戏加速可选旗舰版，团队协作选团队版。",
+          "AI_FAQ_ANSWER_3": "可以。客户端因设备系统而异，手机、电脑与路由器可分别选用对应客户端，按客户端文档完成订阅导入即可。",
+          "AI_FAQ_ANSWER_4": "年付更划算：基础版按年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相比月付可节省两个月左右费用。",
+          "AI_FAQ_ANSWER_5": "购买后获得订阅地址，将其导入所选客户端并更新节点即可使用。如遇配置问题，可按客户端文档逐步核对订阅链接与设备权限。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "NTHU 套餐最多支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "不同套餐的每月流量有什么区别？",
+          "AI_FAQ_QUESTION_3": "NTHU 可以在手机和电脑上同时使用吗？",
+          "AI_FAQ_QUESTION_4": "按年付和按月付哪种更划算？",
+          "AI_FAQ_QUESTION_5": "购买后如何配置订阅并开始使用？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、流量与订阅周期三方面匹配套餐。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台设备、旗舰版 5 台、团队版 20 台，按常用终端数量选择。",
+          "AI_FEATURE_TEXT_2": "每月 100GB 至 1000GB 流量，流媒体或游戏加速优先考虑旗舰版与团队版。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用更省。",
+          "AI_FEATURE_TITLE_1": "按设备数量选",
+          "AI_FEATURE_TITLE_2": "按流量需求选",
+          "AI_FEATURE_TITLE_3": "按订阅周期选",
+          "AI_GUIDE_INTRO": "先确认设备与流量，再选套餐并完成订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "NTHU 提供基础版、旗舰版与团队版三档订阅，支持 3 至 20 台设备同时在线，每月流量 100GB 至 1000GB。按设备系统选择客户端，参考对应文档导入订阅地址即可使用，年付价格分别为 ¥150、¥350 与 ¥850。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选套餐",
+          "AI_HIGHLIGHT_1": "3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_2": "每月 100GB 至 1000GB 流量",
+          "AI_HIGHLIGHT_3": "年付低至 ¥150/年",
+          "AI_PLANS_INTRO": "基础版适合轻量使用，旗舰版适合流媒体与游戏，团队版适合多设备协作，可按设备数量与流量对比。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量需求，在基础版、旗舰版与团队版中选定一档订阅。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限、流量额度与线路类型，确认是否满足日常使用场景。",
+          "AI_STEP_TEXT_3": "按设备系统选择客户端，参考客户端文档导入订阅地址并更新节点。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "NTHU 订阅套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "adjdk.cn",
+    "host": "adjdk.cn"
+  },
+  "file_hashes": {
+    "index.html": "e87ffba86eb1b7198cb5109bbbc15baee6fa8023652cb699bc2e7b06db65300b",
+    "sitemap.xml": "02a06a4126a0e6efb0ae3385424787fdc86d714b33548de5a4d52057b078d468",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9e808bf7511826b0946f9b8553ba1dcbffb656ce93745a95ae33b7bdc067eaa7",
+    "robots.txt": "7149f452dc7920da53d13ced2965077a907d8e67f7a3ca88e96fdf49f3d6174a",
+    "2192174953c1aee88e581ecbb46bf8ca.txt": "0296c72f240d4bdeb1971564c800d5b21231845bbeb66999332e7e1daaab912c"
+  },
+  "revision": "2b0ffd6bde4c52abfe2f1382c7f69abcbcb257e4ec50d1637fd9eb5a955c9750"
+}
